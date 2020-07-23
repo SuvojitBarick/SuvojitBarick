@@ -1,6 +1,6 @@
 ### ✌️ Hye, I am Suvojit 😉
 
-<img src="code.gif" alt="Preview">
+<img src="https://github.com/SuvojitBarick/SuvojitBarick/blob/master/code.gif" alt="Preview">
 
 <!--
 **SuvojitBarick/SuvojitBarick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
